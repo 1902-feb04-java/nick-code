@@ -1,0 +1,6 @@
+nano shortcuts:
+Ctrl+X: quit (with save prompt)
+Ctrl+O: save file
+
+git commit -a
+    before the commit, does an "add" of all changed files, but ignores created or deleted files.
